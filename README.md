@@ -27,5 +27,5 @@ The grid is laid out as grass (green blocks), rocks (grey blocks) and water (blu
 ### How the game ends?
 The game ends when you have 0 lives left. A message pops up showing your grand score.
 
-## How to restart the game?
+### How to restart the game?
 Once the game has ended just close the screen or click the Play Again button
