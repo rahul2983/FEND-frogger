@@ -4,10 +4,10 @@ Udacity Front End Nano-degree game Frogger
 ## Table of Contents
 * [Download and Load](#download-and-load)
 * [Game Objective](#game-objective)
-* [How to play?](#how-to-play\?)
-* [How to score?](#how-to-score?)
-* [How the game ends?](#how-the-game-ends?)
-* [How to restart the game?](#how-to-restart-the-game?)
+* [How to play?](#how-to-play)
+* [How to score?](#how-to-score)
+* [How the game ends?](#how-the-game-ends)
+* [How to restart the game?](#how-to-restart-the-game)
 
 ### Download and Load
 Download the zip file (unzip in your preferred location) or clone the repo (in your preferred location). Open the `index.html` file in your browser. The game will load and you can now play my version of Frogger :)
