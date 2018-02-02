@@ -8,8 +8,9 @@
 * [How to score?](#How to score?)
 * [How the game ends?](#How the game ends?)
 * [How to restart the game?](#How to restart the game?)
+
 ### Download and Load
-Download the zip file (unzip in your preferred location) or clone the repo (in your preferred location). Open the index.html file in your browser. The game will load and you can now play my version of Frogger :)
+Download the zip file (unzip in your preferred location) or clone the repo (in your preferred location). Open the `index.html` file in your browser. The game will load and you can now play my version of Frogger :)
 
 ### Game Objective
 The grid is laid out as grass (green blocks), rocks (grey blocks) and water (blue blocks). Your mission to get to the water without getting attacked by a bug as many times as possible. You have a total of 5 lives and everytime you run into a bug you lose one.
