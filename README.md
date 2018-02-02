@@ -4,7 +4,7 @@ Udacity Front End Nano-degree game Frogger
 ## Table of Contents
 * [Download and Load](#download-and-load)
 * [Game Objective](#game-objective)
-* [How to play?](#how-to-play?)
+* [How to play?](#how-to-play-?)
 * [How to score?](#how-to-score?)
 * [How the game ends?](#how-the-game-ends?)
 * [How to restart the game?](#how-to-restart-the-game?)
