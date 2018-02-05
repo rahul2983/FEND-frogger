@@ -1,0 +1,24 @@
+{
+  "name": "rahul-verma-frontend-nanodegree-arcade-game",
+  "version": "1.0.0",
+  "description": "Udacity front end nanodegree Frogger Game",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahul2983/FEND-frogger.git"
+  },
+  "author": "Rahul Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahul2983/FEND-frogger/issues"
+  },
+  "homepage": "https://github.com/rahul2983/FEND-frogger#readme",
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "gulp": "^3.9.1"
+  }
+}

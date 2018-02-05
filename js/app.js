@@ -1,18 +1,18 @@
 // Global Variables to track score & lives of the player
-var score = 0;
-var lives = 5;
+let score = 0;
+let lives = 5;
 
 // For the modal implementation
-var modalBodyText = document.querySelector('.modal-body');
-var modal = document.querySelector('.modal');
+const modalBodyText = document.querySelector('.modal-body');
+const modal = document.querySelector('.modal');
 
 // returns the position of player, enemy or the collectible
-var getCoordinates = function() {
+const getCoordinates = function () {
   return {
     x: Math.floor(this.x),
     y: this.y
   }
-}
+};
 
 /*
   Function to handle collision of enemy and player.
